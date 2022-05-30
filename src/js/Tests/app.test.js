@@ -6,5 +6,3 @@ test('Должна выбросить исключение при container ра
   const received = () => gamePlay.checkBinding();
   expect(received).toThrow(expected);
 });
-
-
