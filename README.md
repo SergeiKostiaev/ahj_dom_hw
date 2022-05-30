@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/1j4bu10tuefte6h4/branch/main?svg=true)](https://ci.appveyor.com/project/SergeiKostiaev/ahj-env-hw/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/k7pg6hvihsn3gkhq/branch/main?svg=true)](https://ci.appveyor.com/project/SergeiKostiaev/ahj-dom-hw/branch/main)
 
 Правила сдачи задания:
 
